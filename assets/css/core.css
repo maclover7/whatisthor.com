@@ -1,14 +1,14 @@
 html {
-  background-image: url("http://whatisthor.com/images/noise.png"), -webkit-gradient(radial, 50% 0%, 0, 50% 0%, 750, color-stop(0%, #D2B720), color-stop(100%, #D29740));
-  background-image: url("http://whatisthor.com/images/noise.png"), -moz-radial-gradient(top center, circle, #D2B720 0%, #D29740 750px);
-  background-image: url("http://whatisthor.com/images/noise.png"), radial-gradient(top center, circle, #D2B720 0%, #D29740 750px);
+  background-image: url("../img/noise.png"), -webkit-gradient(radial, 50% 0%, 0, 50% 0%, 750, color-stop(0%, #D2B720), color-stop(100%, #D29740));
+  background-image: url("../img/noise.png"), -moz-radial-gradient(top center, circle, #D2B720 0%, #D29740 750px);
+  background-image: url("../img/noise.png"), radial-gradient(top center, circle, #D2B720 0%, #D29740 750px);
 }
 
 body {
   font-family: Helvetica;
   font-size: 14px;
   line-height: 20px;
-  background: url("http://whatisthor.com/images/thor.png") no-repeat;
+  background: url("../img/thor.png") no-repeat;
   background-position: 10px 10px;
   padding-top: 280px;
   width: 700px;
